@@ -1,5 +1,5 @@
 # Hello, I'm Isaac!
-<a href="https://linkedin.com/thehiringofisaac"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/thehiringofisaac/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a military service member and early information security professional interested in navigating the ambiguity of the digital realm and finding ways to protect and preserve the flourishing of human lives through my work. 
 
